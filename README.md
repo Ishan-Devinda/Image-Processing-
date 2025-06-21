@@ -13,7 +13,8 @@ This is the original image used:
 
 1. Reducing Intensity Levels in an Image 
 Reduce the number of intensity levels from 256 to a specified power of 2 ( 2, 4, 
-8, 16, 32, 64, 128, 256). 
+8, 16, 32, 64, 128, 256).
+/n
 Result:
 ![Q1](https://github.com/user-attachments/assets/672a9ce9-4bce-48a2-9eae-21c2c2e86402)
 
